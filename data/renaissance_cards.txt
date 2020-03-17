@@ -1,0 +1,32 @@
+#no	name	reading	eng	expansion	cost	potion	debt	coin	victory	action	reaction	tag
+1	_	_	Acting Troupe	renaissance	3	0	0	0	0	1	0
+2	_	_	Border Guard	renaissance	2	0	0	0	0	1	0
+3	_	_	Cargo Ship	renaissance	3	0	0	0	0	1	0	duration
+4	_	_	Ducat	renaissance	2	0	0	1	0	0	0
+5	_	_	Experiment	renaissance	3	0	0	0	0	1	0
+6	_	_	Flag Bearer	renaissance	4	0	0	0	0	1	0
+7	_	_	Hideout	renaissance	4	0	0	0	0	1	0
+8	_	_	Improve	renaissance	3	0	0	0	0	1	0
+9	_	_	Inventor	renaissance	4	0	0	0	0	1	0
+10	_	_	Lackeys	renaissance	2	0	0	0	0	1	0
+11	_	_	Mountain Village	renaissance	4	0	0	0	0	1	0
+12	_	_	Old Witch	renaissance	5	0	0	0	0	1	0
+13	_	_	Patron	renaissance	4	0	0	0	0	1	1
+14	_	_	Priest	renaissance	4	0	0	0	0	1	0
+15	_	_	Recruiter	renaissance	5	0	0	0	0	1	0
+16	_	_	Research	renaissance	4	0	0	0	0	1	0	duration
+17	_	_	Scepter	renaissance	5	0	0	1	0	0	0
+18	_	_	Scholar	renaissance	5	0	0	0	0	1	0
+19	_	_	Sculptor	renaissance	5	0	0	0	0	1	0
+20	_	_	Seer	renaissance	5	0	0	0	0	1	0
+21	_	_	Silk Merchant	renaissance	4	0	0	0	0	1	0
+22	_	_	Spices	renaissance	5	0	0	0	0	1	0
+23	_	_	Swashbuckler	renaissance	5	0	0	0	0	1	0
+24	_	_	Treasurer	renaissance	5	0	0	0	0	1	0
+25	_	_	Villain	renaissance	5	0	0	0	0	1	0
+26	_	_	Projects	renaissance	＊	0	0	0	0	0	0	project
+27	_	_	Artifacts	renaissance	＊	0	0	0	0	0	0	artifact
+28	_	_	Flag	renaissance	＊	0	0	0	0	0	0	artifact
+29	_	_	Horn/Lantern	renaissance	＊	0	0	0	0	0	0	artifact
+30	_	_	Key	renaissance	＊	0	0	0	0	0	0	artifact
+31	_	_	Treasure Chest	renaissance	＊	0	0	0	0	0	0	artifact

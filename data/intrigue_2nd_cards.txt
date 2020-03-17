@@ -1,0 +1,8 @@
+#no	name	reading	eng	expansion	cost	potion	debt	coin	victory	action	reaction
+1	_	_	Courtier	intrigue2	5	0	0	0	0	1	0
+2	_	_	Diplomat	intrigue2	4	0	0	0	0	1	1
+3	_	_	Lurker	intrigue2	2	0	0	0	0	1	0
+4	_	_	Mill	intrigue2	4	0	0	0	1	1	0
+5	_	_	Patrol	intrigue2	5	0	0	0	0	1	0
+6	_	_	Replace	intrigue2	5	0	0	0	0	1	0
+7	_	_	Secret Passage	intrigue2	4	0	0	0	0	1	0

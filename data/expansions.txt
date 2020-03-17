@@ -1,0 +1,7 @@
+#expansion	name	r	g	b
+default	_	0	0	0
+basic	基本	209	195	120
+intrigue	陰謀	217	217	217
+basic2	基本2	209	195	120
+intrigue2	陰謀2	217	217	217
+renaissance	ルネ	26	170	170

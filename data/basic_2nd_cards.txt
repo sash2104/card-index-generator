@@ -1,0 +1,8 @@
+#no	name	reading	eng	expansion	cost	potion	debt	coin	victory	action	reaction
+1	_	_	Artisan	basic2	6	0	0	0	0	1	0
+2	_	_	Bandit	basic2	5	0	0	0	0	1	0
+3	_	_	Harbinger	basic2	3	0	0	0	0	1	0
+4	_	_	Merchant	basic2	3	0	0	0	0	1	0
+5	_	_	Poacher	basic2	4	0	0	0	0	1	0
+6	_	_	Sentry	basic2	5	0	0	0	0	1	0
+7	_	_	Vassal	basic2	3	0	0	0	0	1	0
